@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 💻 Software Engineer
 - 🧠 Exploring how AI can accelerate software development without replacing good engineering judgment (I still review every line, but the speed is 🚀)
-- 💬 Ask me about Rails, NestJS, React, or anything actually
+- 💬 Ask me about Rails, NestJS, React, or anything, really
 
  
 ### 🌱 When I'm not pushing commits, you'll probably find me:
